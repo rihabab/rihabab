@@ -12,7 +12,7 @@
 <p>_______________________________________________________________________</p>
 <h2>GitHub Stats</h2>
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rihabab&show_icons=true&locale=en&layout=compact&theme=radical" alt="rihabab" width=35% /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rihabab&show_icons=true&locale=en&layout=compact&theme=radical" alt="rihabab" width=45% /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rihabab&show_icons=true&locale=en&theme=radical" alt="rihabab" /></p>
 
