@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **End-of-study management app**
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning **php**
 
 - 👨‍💻 All of my projects are available at [https://myportfolio-458c7.web.app/](https://myportfolio-458c7.web.app/)
 
