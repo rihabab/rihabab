@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rihab Ait Bahessou</h1>
 <h3 align="center">A passionate full stack developer and a Software engeneering student at @INPT</h3>
 
-- 🔭 I’m currently working on **End-of-study management app**
+- 🔭 I’m currently working on **OCR identification app**
 
 - 🌱 I’m currently learning **all about software engineering**
 
@@ -10,13 +10,6 @@
 - 📫 How to reach me **aitbahessou.rihab@ine.inpt.ma**
 
 <p>_______________________________________________________________________</p>
-<h2>GitHub Stats</h2>
-  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rihabab&show_icons=true&locale=en&layout=compact&theme=radical" alt="rihabab" width=35% /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rihabab&show_icons=true&locale=en&theme=radical" alt="rihabab" /></p>
-
-
 <h2>SKILLS</h2>
 
  <h3 align="left">Front End:</h3>
