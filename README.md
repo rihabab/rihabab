@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **all about software engineering**
 
-- 📫 How to reach me **aitbahessou.rihab@ine.inpt.ma**
+- 📫 How to reach me **aitbahessou.rihab@ine.inpt.ac.ma**
 
 <p>_______________________________________________________________________</p>
 
