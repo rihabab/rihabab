@@ -34,12 +34,13 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
 
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rihabab&layout=donut-vertical" alt="dahhou-ilyas" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rihabab&show_icons=true&locale=en" alt="dahhou-ilyas" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rihabab&" alt="dahhou-ilyas" /></p>
-
+-->
 
   
   
